@@ -13,5 +13,3 @@ To run on CUDA install torch from:
 ```
 https://pytorch.org/get-started/locally/
 ```
-
-before installing requirements.txt
