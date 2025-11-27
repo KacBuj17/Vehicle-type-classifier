@@ -8,7 +8,7 @@ python3 -m venv .venv
 pip install -r .\requirements.txt
 ```
 
-To run on CUDA install torch from:
+To run on CUDA uninstall torch and torchvision installed from requirements.txt and install from:
 
 ```
 https://pytorch.org/get-started/locally/
