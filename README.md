@@ -2,6 +2,9 @@
 Vehicle type classification tool based on a lightweight simple convolutional neural network
 
 How to run:
+
+download dataset from https://www.kaggle.com/datasets/lyensoetanto/vehicle-images-dataset and copy folders with images to resources/data/VehiclesDataset
+
 ```
 python3 -m venv .venv
 .\.venv\Scripts\activate
